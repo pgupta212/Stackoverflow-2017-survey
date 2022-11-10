@@ -19,8 +19,8 @@ Each year, stack overflow run this survey to understand developer community abou
 
 ### File Structure
 * `Stack Overflow Data - 2017 Survey.ipynb` - jupyter Notebook that contains analysis to showcase the work related to the above questions  
-* `survey_results_public.csv` - Stackoverflow 2017 survey data  
-* `survey_results_schema.csv` - Stackoverflow 2017 survey schema  
+* `survey-results-public.csv` - Stackoverflow 2017 survey data  
+* `survey-results-schema.csv` - Stackoverflow 2017 survey schema  
 
 ### Results
 The main findings of the code can be found at the post available here  
