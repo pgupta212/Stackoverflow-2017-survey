@@ -23,7 +23,7 @@ Each year, stack overflow run this survey to understand developer community abou
 * `survey-results-schema.csv` - Stackoverflow 2017 survey schema  
 
 ### Results
-The main findings of the code can be found at the post available here  
+The main findings of the code can be found at the post available [here](https://medium.com/@pgupta212.m/what-can-we-learn-from-the-stackoverflow-survey-2150e98091e9)  
 
 ### Licensing, Authors, and Acknowledgements
 You can find detailed information about the licensing for the data and other descriptive information at the [Kaggle](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017).
